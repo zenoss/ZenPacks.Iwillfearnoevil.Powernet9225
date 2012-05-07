@@ -5,7 +5,7 @@
 NAME = "ZenPacks.Iwillfearnoevil.Powernet9225"
 VERSION = "1.0.3"
 AUTHOR = "Chris Hubbard"
-LICENSE = ""
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.Iwillfearnoevil']
 PACKAGES = ['ZenPacks', 'ZenPacks.Iwillfearnoevil', 'ZenPacks.Iwillfearnoevil.Powernet9225']
 INSTALL_REQUIRES = []
